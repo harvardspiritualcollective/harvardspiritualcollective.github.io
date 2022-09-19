@@ -15,6 +15,7 @@ body {
 	justify-content: center;
 	min-height: 30vh;
 	font-size: 1.7em;
+	line-height: 1.7em;
 	font-weight: 500;
 	z-index: 4;
 	text-align: center;
